@@ -1,7 +1,6 @@
 .container {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     width: 750px;
-    height: 750px;
     display: flex;
     background: linear-gradient(180deg, purple, rgb(6, 84, 173));
     justify-content: center;
