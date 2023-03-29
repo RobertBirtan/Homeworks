@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+  }
+  
+  .scoreboard {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .choices {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .choices img {
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+    cursor: pointer;
+  }
+  
+  .choices img:hover {
+    opacity: 0.7;
+  }
+  
+  #play {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #play:hover {
+    opacity: 0.7;
+  }
